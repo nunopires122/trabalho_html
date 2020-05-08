@@ -1,2 +1,2 @@
 # trabalho_html
-Aqui estarão presentes os passos 4 e 5
+Aqui está presente o passo 5
